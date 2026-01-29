@@ -1,16 +1,54 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**sangeethac19/sangeethac19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi 👋 I'm Sangeetha C</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Software Developer | React • JavaScript • HTML • CSS  • Java<br/>
+  Learning Full-Stack | Building real-world projects
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 💻 Software Developer passionate about building applications  
+- 🌱 Currently learning **Full-Stack Development**  
+- 🚀 Building real-world projects  
+- 📍 Current Location: **Chennai, Tamil Nadu, India**  
+- 🏡 Native: **Rasipuram, Namakkal**
+
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+### 📌 Projects
+- 🔹 Weather-app
+- 🔹 Frontend Projects (SpaceX)  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavithrabaskaran-tech&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/c-sangeetha  
+- 💻 GitHub: https://github.com/sangeethac19  
+- 📧 Email: csesangeetha10@gmail.com  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
+</p>
